@@ -17,3 +17,5 @@ brew install --cask fratayaydn/tap/<name>
 ```
 
 or grab the signed and notarized dmg from the app's releases page.
+
+More about each app, with screenshots: [fratayaydn.github.io](https://fratayaydn.github.io)
